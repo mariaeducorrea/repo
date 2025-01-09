@@ -10,5 +10,7 @@ TESTANDO FUNCIONALIDADE FECHT
 FAZENDO NOVA ALTERAÇÃO BRANCH TESTE REPO 2
  - criar BRANCH
  - alterar
- -mandar branch REPO
- aceesar REPO-p uxa branchmandar branch origin
+ - mandar branch REPO
+ - aceesar REPO
+ -  mandar branch origin
+ - 
